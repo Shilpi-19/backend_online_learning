@@ -123,5 +123,5 @@ Follow these steps to set up the backend on your local machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/online-learning-platform-backend.git
-   cd online-learning-platform-backend
+   git clone https://github.com/your-username/backend-online-learning-platform.git
+   cd backend-online-learning-platform
